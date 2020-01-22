@@ -1,0 +1,21 @@
+{"latitude": "11", "user_id": 1, "name": "Nickel Back", "longitude": "10"}
+{"latitude": "17", "user_id": 2, "name": "Woop de woop", "longitude": "19"}
+{"latitude": "18", "user_id": 3, "name": "Apl de ap", "longitude": "10"}
+{"latitude": "10", "user_id": 5, "name": "Nickel Back", "longitude": "15"}
+{"latitude": "10", "user_id": 54, "name": "Dimes Aplenty", "longitude": "10"}
+{"latitude": "10", "user_id": 420, "name": "Nickel Back", "longitude": "10"}
+{"latitude": "10", "user_id": 120, "name": "Nickel Back", "longitude": "13"}
+{"latitude": "53.2451022", "user_id": 4, "name": "Ian Kehoe", "longitude": "-6.238335"}
+{"latitude": "10", "user_id": 35, "name": "Nickel Back", "longitude": "13"}
+{"latitude": "10", "user_id": 46, "name": "Nickel Back", "longitude": "10"}
+{"latitude": "10.235", "user_id": 456, "name": "Nickel Back", "longitude": "-6.64"}
+{"latitude": "15", "user_id": 6, "name": "Jerico Alcaras", "longitude": "13"}
+{"latitude": "10", "user_id": 64, "name": "J4E", "longitude": "10"}
+{"latitude": "53", "user_id": 87, "name": "Back Nickel", "longitude": "10"}
+{"latitude": "16", "user_id": 887, "name": "Look At This", "longitude": "10"}
+{"latitude": "10", "user_id": 457, "name": "Photo Graph", "longitude": "10"}
+{"latitude": "10.235", "user_id": 978, "name": "Every Time", "longitude": "10"}
+{"latitude": "34", "user_id": 37, "name": "Ido Itmakes", "longitude": "10"}
+{"latitude": "10", "user_id": 57, "name": "Mee Laff", "longitude": "10"}
+{"latitude": "10", "user_id": 9796, "name": "Nickel Back", "longitude": "10"}
+{"latitude": "10", "user_id": 6789, "name": "Nickel Back", "longitude": "10"}

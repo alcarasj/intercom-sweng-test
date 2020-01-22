@@ -1,0 +1,16 @@
+{"user_id": 4, "name": "Ian Kehoe", "distance_km": 10.56693628851016}
+{"user_id": 5, "name": "Nora Dempsey", "distance_km": 23.287320662820015}
+{"user_id": 6, "name": "Theresa Enright", "distance_km": 24.085360018691215}
+{"user_id": 8, "name": "Eoin Ahearn", "distance_km": 83.53253116782588}
+{"user_id": 11, "name": "Richard Finnegan", "distance_km": 38.13756809809325}
+{"user_id": 12, "name": "Christina McArdle", "distance_km": 41.76872550078046}
+{"user_id": 13, "name": "Olive Ahearn", "distance_km": 62.23170226288675}
+{"user_id": 15, "name": "Michael Ahearn", "distance_km": 43.722487459304524}
+{"user_id": 17, "name": "Patricia Cahill", "distance_km": 96.07859923628895}
+{"user_id": 23, "name": "Eoin Gallagher", "distance_km": 82.69492611633223}
+{"user_id": 24, "name": "Rose Enright", "distance_km": 89.03103382223692}
+{"user_id": 26, "name": "Stephen McArdle", "distance_km": 98.87459926457565}
+{"user_id": 29, "name": "Oliver Ahearn", "distance_km": 72.20178549699202}
+{"user_id": 30, "name": "Nick Enright", "distance_km": 82.64284999107412}
+{"user_id": 31, "name": "Alan Behan", "distance_km": 44.29082235506893}
+{"user_id": 39, "name": "Lisa Ahearn", "distance_km": 38.35801477476543}

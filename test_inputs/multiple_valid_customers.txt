@@ -1,0 +1,25 @@
+{"latitude": "11", "user_id": 1, "name": "Rihanna", "longitude": "10"}
+{"latitude": "17", "user_id": 2, "name": "Woop de woop", "longitude": "19"}
+{"latitude": "53.1229599", "user_id": 6, "name": "Theresa Enright", "longitude": "-6.2705202"}
+{"latitude": "18", "user_id": 3, "name": "Apl de ap", "longitude": "10"}
+{"latitude": "53.038056", "user_id": 26, "name": "Stephen McArdle", "longitude": "-7.653889"}
+{"latitude": "10", "user_id": 5, "name": "6ix9ine", "longitude": "15"}
+{"latitude": "10", "user_id": 54, "name": "XXXTentacion", "longitude": "10"}
+{"latitude": "10", "user_id": 420, "name": "Bobby Shmurda", "longitude": "35"}
+{"latitude": "10", "user_id": 120, "name": "Swagman Yo", "longitude": "13"}
+{"latitude": "53.2451022", "user_id": 4, "name": "Ian Kehoe", "longitude": "-6.238335"}
+{"latitude": "10", "user_id": 35, "name": "Yolo Swag", "longitude": "13"}
+{"latitude": "10", "user_id": 46, "name": "Yolo Swag", "longitude": "10"}
+{"latitude": "53", "user_id": 13, "name": "Olive Ahearn", "longitude": "-7"}
+{"latitude": "10.235", "user_id": 456, "name": "Yolo Swag", "longitude": "-6.64"}
+{"latitude": "15", "user_id": 6, "name": "Jerico Alcaras", "longitude": "13"}
+{"latitude": "10", "user_id": 64, "name": "J4E", "longitude": "10"}
+{"latitude": "53", "user_id": 87, "name": "Yolo Swag", "longitude": "10"}
+{"latitude": "54.1225", "user_id": 27, "name": "Enid Gallagher", "longitude": "-8.143333"}
+{"latitude": "10", "user_id": 457, "name": "Trololol", "longitude": "-35.43"}
+{"latitude": "10.235", "user_id": 978, "name": "Yolo Swag", "longitude": "10"}
+{"latitude": "34", "user_id": 37, "name": "Dave Chappelle", "longitude": "10"}
+{"latitude": "54.180238", "user_id": 17, "name": "Patricia Cahill", "longitude": "-5.920898"}
+{"latitude": "10", "user_id": 57, "name": "Yolo Swag", "longitude": "10"}
+{"latitude": "10", "user_id": 9796, "name": "Kendrick Lamar", "longitude": "10"}
+{"latitude": "10", "user_id": 6789, "name": "Nicki Minaj", "longitude": "10"}
